@@ -1,0 +1,17 @@
+.flexbox {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 60%;
+    height: 50px;
+    margin: auto;
+    background: #e6e2dc;
+  }
+  .router-link-exact-active {
+    background: #808080;
+    border-radius: 5px;
+    color: #ffffff;
+    font-variant: italic;
+  }
